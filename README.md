@@ -1,6 +1,6 @@
 # beautysaloon LadePage
 <p align="center">
-  <img alt="License" src="https://github.com/fernandohtcordeiro/beautysaloon/blob/main/assets/fotos/imgcapa.PNG">
+  <img alt="License" src="https://github.com/fernandohtcordeiro/beautysaloon/blob/main/telacapa.PNG">
 </p>
 
 ## 💻 Projeto
